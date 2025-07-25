@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Olá! Eu sou o Fernando 👋</h1>
 
-<!--
-**fernandorita04/fernandorita04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 Estudante de Análise e Desenvolvimento de Sistemas na <strong>FATEC Rubens Lara</strong><br>
+  💼 Estagiário de TI no <strong>Instituto Almai</strong><br>
+  🌱 Atualmente aprendendo: <strong>Java, MySQL, Redes, Firebase</strong><br>
+  💡 Interesses: Desenvolvimento Web, Aplicações Mobile, Projetos Open Source
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tecnologias e Ferramentas
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+</div>
+
+---
+
+## 📌 Projetos em destaque
+
+🔹 [App de Adoção de Animais (FlutterFlow)](https://github.com/fernandorita04/flutterflowApp)  
+🔹 [Sistema de Papelaria em Java](https://github.com/fernandorita04/javaPapelaria)  
+🔹 [Projeto Final - Programação Web (Node.js)](https://github.com/fernandorita04/projetofinalpw)  
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fernandorita04&show_icons=true&theme=default"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandorita04&layout=compact"/>
+</p>
+
+---
+
+## 📫 Contato
+
+- 📧 fernando.rita@outlook.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/fernandoggrita/)
+- 🌍 Santos/SP – Brasil
