@@ -24,9 +24,7 @@
 
 ## 📌 Projetos em destaque
 
-🔹 [App de Adoção de Animais (FlutterFlow)](https://github.com/fernandorita04/flutterflowApp)  
-🔹 [Sistema de Papelaria em Java](https://github.com/fernandorita04/javaPapelaria)  
-🔹 [Projeto Final - Programação Web (Node.js)](https://github.com/fernandorita04/projetofinalpw)  
+🔹 [Repositório com Projetos](https://github.com/fernandorita04/Projetos)
 
 ---
 
