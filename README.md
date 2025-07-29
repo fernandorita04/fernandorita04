@@ -25,6 +25,7 @@
 ## 📌 Projetos em destaque
 
 🔹 [Repositório com Projetos](https://github.com/fernandorita04/Projetos)
+🔹 [Projeto de Controle de Transações Financeiras em Java](https://github.com/fernandorita04/finance-control)
 
 ---
 
