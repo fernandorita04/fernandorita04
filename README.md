@@ -25,7 +25,7 @@
 ## 📌 Projetos em destaque
 
 🔹 [Repositório com Projetos](https://github.com/fernandorita04/Projetos)<br>
-🔹 [Projeto de Controle de Transações Financeiras em Java](https://github.com/fernandorita04/finance-control)
+🔹 [Projeto de Controle de Transações Financeiras em Java](https://github.com/fernandorita04/finance-control)<br>
 🔹 [Jogo da Forca utilizando POO em Java](https://github.com/fernandorita04/jogo-da-forca)
 
 ---
